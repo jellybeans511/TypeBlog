@@ -1,7 +1,7 @@
 ---
 title: 'Hello World!'
 excerpt: '後に大物ブロガーになる男'
-coverImage: '/assets/blog/hello-world/DSC00446.jpg'
+coverImage: '/assets/blog/DSC00446.jpg'
 date: '2021-04-15T05:35:07.322Z'
 author:
   name: DocteuMan
