@@ -1,7 +1,7 @@
 ---
 title: 'Next.jsに引っ越し'
 excerpt: '後に大物ブロガーになる男'
-coverImage: '/assets/blog/DSC00446.jpg'
+coverImage: '/assets/blog/DSC00483.jpg'
 date: '2022-04-27T05:35:07.322Z'
 author:
   name: DocteuMan
