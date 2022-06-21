@@ -1,6 +1,6 @@
 ---
 title: '隙あらば自己紹介'
-excerpt: '恐ろしく速い隙自語'
+excerpt: 'すごい早口で喋ってそう'
 coverImage: '/assets/blog/IMG_20220527_220427.jpg'
 date: '2021-04-19T05:35:07.322Z'
 author:
