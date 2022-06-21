@@ -42,7 +42,7 @@ GitHubPagesのIPアドレスを調べたところ,[公式ページ曰く](https:
 
 - タイプ CNAME
 - 名前 www
-- コンテンツ jellybeans511.github.io
+- コンテンツ XXXXXXXX.github.io
 コンテンツはGitHubPagesを有効化した際の初期ドメインです.(Githubユーザー名).github.io.
 
 ## GitHubPagesの設定

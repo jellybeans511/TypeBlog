@@ -1,7 +1,7 @@
 ---
 title: '昨今の円安について思うこと'
 excerpt: '草むしり検定では食っていけない時代かもしれない'
-coverImage: '/assets/DSC00429.jpg'
+coverImage: '/assets/blog/DSC00429.jpg'
 date: '2022-06-20T05:35:07.322Z'
 author:
   name: DocteuMan
