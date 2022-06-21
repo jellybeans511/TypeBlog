@@ -9,8 +9,8 @@ author:
 ogImage:
   url: '/assets/blog/hello-world/DSC00446.jpg'
 ---
-はじめまして.どくてうです.
+はじめまして。どくてうです。
 
-昨今話題の[CDN(Contents Deliverly Network)](https://www.cloudflare.com/ja-jp/cdn/)の勉強としてcloudflareのサイトを漁っていたところフロント回りの新発見が沢山あったので,hexoで静的なウェブページを作成してGithubPagesでWebサイトを公開しつつ,それをcloudflareのサービスと繋いで遊んだらおもろいやろなぁ(ﾆﾁｬｱ)ということでブログを書いてみました.
+昨今話題の[CDN(Contents Deliverly Network)](https://www.cloudflare.com/ja-jp/cdn/)の勉強としてcloudflareのサイトを漁っていたところ、フロント回りの新発見が沢山あったので、hexoで静的なウェブページを作成して、GithubPagesでWebサイトを公開しつつ,それをcloudflareのサービスと繋いで遊んだらおもろいやろなぁ(ﾆﾁｬｱ)ということでブログを書いてみました。
 
-せっかく書くなら知識のアウトプットやお酒・珈琲の布教を兼ねてみようと思ったので色々書いてみます.ジャンルごった煮の内容ですがよろしくお願いします.
+せっかく書くなら知識のアウトプットやお酒・珈琲の布教を兼ねてみようと思ったので、色々書いてみます。ジャンルごった煮の内容ですがよろしくお願いします。
