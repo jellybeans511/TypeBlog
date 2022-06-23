@@ -34,7 +34,7 @@ const Post = ({ post, morePosts, preview }: Props) => {
             <article className="mb-32">
               <Head>
                 <title>
-                  {post.title} | Next.js Blog Example with {CMS_NAME}
+                  {post.title} | てう速5センチメートル
                 </title>
                 <meta property="og:image" content={post.ogImage.url} />
               </Head>
